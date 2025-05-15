@@ -142,7 +142,3 @@ scss/
 ├── _components.scss
 ├── _utilities.scss
 ```
-
----
-
-Bu düzenlemeleri README dosyanıza ekleyerek daha etkileyici ve profesyonel bir görünüm elde edebilirsiniz! 😊
