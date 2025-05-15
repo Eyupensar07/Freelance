@@ -142,7 +142,3 @@ scss/
 ├── _components.scss
 ├── _utilities.scss
 ```
-
----
-
-You can include this well-organized and visually appealing README in your repository! 😊
