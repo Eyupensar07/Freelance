@@ -39,10 +39,34 @@ Bu proje, kişisel portföyünüzü veya freelance hizmetlerinizi tanıtmak içi
 
 ---
 
-### Projenin Hedefleri
-Bu proje, freelance çalışmaları veya kişisel projelerinizi sergilemek için profesyonel bir platform sunmayı amaçlar. Kullanıcı dostu arayüzü, animasyonları ve modern tasarımı ile potansiyel müşterilerinizi etkilemek için idealdir. 
+Projenin Amacı
+SCSS Kullanımı: Projede, geleneksel CSS yerine SCSS kullanılmıştır. Bu, daha modüler ve organize bir kod yapısı sağlar. SCSS'in sağladığı değişkenler, mixin'ler ve nested yapı sayesinde, stil dosyaları daha esnek ve sürdürülebilir hale getirilmiştir.
+Kişisel Portföy Tanıtımı: Bu proje, freelance hizmetlerinizin profesyonel bir şekilde sergilenmesi için bir platform oluşturmayı hedefler.
+Modern Web Tasarımı: Proje, kullanıcı dostu ve estetik bir arayüzle dikkat çekmeyi amaçlar.
+SCSS'in Projedeki Rolü
+Modüler Yapı:
 
-Eğer bu projeyi daha da geliştirmek isterseniz, şunları ekleyebilirsiniz:
-- Daha fazla dinamik özellik için bir backend entegrasyonu.
-- Form gönderimlerini işlemek için bir sunucu tarafı kodu.
-- SEO optimizasyonu ile daha fazla görünürlük.
+SCSS dosyaları farklı bölümlere ayrılarak (örneğin _variables.scss, _mixins.scss, _base.scss), kodun okunabilirliği artırılmış ve düzenli bir yapı oluşturulmuştur.
+Tasarım değişiklikleri hızlıca uygulanabilir, çünkü SCSS'in değişkenler ve mixin'ler gibi özellikleri kullanılmıştır.
+Değişkenler (Variables):
+
+Renk paleti, yazı tipleri ve diğer tasarım öğeleri SCSS değişkenleri kullanılarak tanımlanmıştır.
+Örneğin, $primary-color veya $font-family gibi değişkenler sayesinde tutarlı bir tasarım sağlanmıştır.
+Mixin'ler ve Fonksiyonlar:
+
+Tekrarlayan stil kuralları mixin'ler kullanılarak modüler hale getirilmiştir.
+Örneğin, @mixin ile medya sorguları veya buton tasarımları daha kolay bir şekilde yönetilebilir.
+Nested (İç İçe Yazım):
+
+SCSS'in iç içe yazım özelliği sayesinde HTML yapısıyla birebir eşleşen bir stil yapısı oluşturulmuştur.
+Bu, hem kodun okunabilirliğini artırır, hem de stil dosyalarının yönetimini kolaylaştırır.
+Projenin SCSS ile Geliştirilmesinin Avantajları
+Kolay Yönetim: Proje büyüdükçe SCSS'in sağladığı modüler yapı sayesinde stil dosyalarının yönetimi kolaylaşır.
+Daha Az Tekrar: Mixin'ler ve değişkenler, kod tekrarını minimuma indirerek daha temiz bir stil dosyası oluşturur.
+Hızlı Değişim: Tasarımda yapılacak değişiklikler, SCSS değişkenleri üzerinden kolayca uygulanabilir.
+Profesyonel Görünüm: SCSS ile oluşturulan düzenli yapı, projenin profesyonelliğini artırır.
+Eğer SCSS yapısını daha da geliştirmek isterseniz, şu adımları düşünebilirsiniz:
+
+Daha İleri Düzey Mixin'ler: Örneğin, butonlar için farklı renk ve boyut seçeneklerini tek bir mixin ile dinamik hale getirebilirsiniz.
+BEM (Block Element Modifier) Yaklaşımı: SCSS sınıflarını BEM metodolojisiyle organize ederek daha tutarlı bir yapıya ulaşabilirsiniz.
+SCSS Map Kullanımı: Renk paletleri veya diğer tekrarlayan değerler için SCSS map yapısını kullanabilirsiniz.
