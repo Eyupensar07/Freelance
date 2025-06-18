@@ -143,10 +143,6 @@ scss/
 ├── _utilities.scss
 ```
 
-Tabii! Türkçe kısmı da İngilizce kısmı gibi modern ve düzenli bir şekilde yazıyorum. Hem başlıklar hem de madde işaretleri ile aynı düzeni sağlayacağım. Aşağıda düzenlenmiş Türkçe kısmı bulabilirsin:
-
----
-
 ### Türkçe Sürüm (README)
 
 ---
@@ -295,6 +291,4 @@ scss/
 ├── _utilities.scss
 ```
 
----
 
-Dilersen bu kısmı README dosyana ekleyebilirsin. Eğer istersen Markdown dosyasına eklenmiş halini de gönderebilirim!
