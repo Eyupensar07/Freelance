@@ -143,146 +143,149 @@ scss/
 ├── _utilities.scss
 ```
 
-🌟 Kişisel Portföy ve Freelance Hizmet Web Sitesi
+Tabii! Türkçe kısmı da İngilizce kısmı gibi modern ve düzenli bir şekilde yazıyorum. Hem başlıklar hem de madde işaretleri ile aynı düzeni sağlayacağım. Aşağıda düzenlenmiş Türkçe kısmı bulabilirsin:
+
+---
+
+### Türkçe Sürüm (README)
+
+---
+
+# 🌟 Kişisel Portföy ve Freelance Hizmet Web Sitesi
+
 Bu proje, kişisel portföyünüzü veya freelance hizmetlerinizi modern bir tasarımla sergilemenizi amaçlayan bir web sitesidir. HTML, CSS ve JavaScript kullanılarak geliştirilmiştir.
 
-🚀 Genel Yapı ve Özellikler
-💻 HTML ve CSS Kullanımı: Sayfalar HTML ile yapılandırılmış, main.css dosyası ile şık bir görünüm kazandırılmıştır.
+---
 
-📱 Responsive Tasarım: Mobil, tablet ve masaüstü cihazlarda kusursuz bir kullanıcı deneyimi sunar.
+## 🚀 Genel Yapı ve Özellikler
 
-📦 Kullanılan Modern Kütüphaneler:
+- **💻 HTML ve CSS Kullanımı:** Sayfalar HTML ile oluşturulmuş, CSS ile şık bir şekilde stillendirilmiştir. Ana stil dosyası `main.css`’dir.
+- **📱 Responsive Tasarım:** Site, mobilden masaüstüne kadar tüm cihazlarda kusursuz bir görünüm sunar.
+- **📦 Modern Kütüphaneler:**
+  - Google Fonts
+  - Font Awesome
+  - Animate.css
+  - Owl Carousel  
+Bu kütüphaneler, tipografi, ikon, animasyon ve kaydırıcı efektlerinde modern bir deneyim sağlar.
 
-Google Fonts
+---
 
-Font Awesome
+## 🌐 Sayfa İncelemesi
 
-Animate.css
+### 1️⃣ **Ana Sayfa**
+- 👋 Karşılama başlığı ve kısa açıklamalar ziyaretçilere hoş geldiniz der.
+- 🌐 Navigasyon menüsü ile diğer sayfalara kolay erişim sağlanır.
 
-Owl Carousel
-Bu kütüphaneler sayesinde daha estetik yazı tipleri, ikonlar, animasyonlar ve kaydırıcı efektleri elde edilmiştir.
+### 2️⃣ **Hakkımda Sayfası**
+- 🧑‍💻 Kişisel bilgileriniz ve yetenekleriniz tanıtılır.
+- 🛠️ “Web Development”, “Mobil Uygulama Geliştirme”, “Veri Bilimi” ve “Makine Öğrenmesi” gibi alanlarda uzmanlık seviyeleri ilerleme çubukları ile gösterilir.
+- ✍️ Kısa bir biyografi ve profesyonel referanslar bulunur.
 
-🌐 Sayfa İncelemesi
-1️⃣ Ana Sayfa
-👋 Karşılama başlığı ve kısa açıklamalarla ziyaretçilere hoş geldiniz mesajı sunulur.
+### 3️⃣ **İletişim Sayfası**
+- 📬 Ad, e-posta, telefon ve mesaj alanlarından oluşan bir iletişim formu vardır.
+- 📍 E-posta, telefon ve adres bilgileri ikonlarla birlikte şık biçimde sunulur.
 
-🌐 Navigasyon menüsü sayesinde diğer sayfalara hızlı geçiş sağlanır.
+### 4️⃣ **Projeler ve Referanslar**
+- 📝 Geçmişte yapılan işler ve müşteri yorumları sergilenir.
+- 🖼️ Owl Carousel ile dinamik bir kullanıcı deneyimi sunulur.
 
-2️⃣ Hakkımda Sayfası
-🧑‍💻 Kişisel bilgileriniz ve yetenekleriniz tanıtılır.
+---
 
-🛠️ "Web Development", "Mobil Uygulama Geliştirme", "Veri Bilimi", "Makine Öğrenmesi" gibi alanlarda ilerleme çubukları ile uzmanlık seviyeleri gösterilir.
+## 🛠️ Teknik Detaylar
 
-✍️ Kısa bir biyografi ve profesyonel referanslara yer verilir.
+### **CSS Dosyaları**
+- 🎨 `main.css`: Tüm ana stilleri içerir.
+- 🌟 `lightbox.min.css` ve `owl.carousel.min.css`: Harici kütüphanelerin stilleri.
 
-3️⃣ İletişim Sayfası
-📬 Ad, e-posta, telefon ve mesaj alanlarını içeren bir iletişim formu yer alır.
+### **JavaScript Kullanımı**
+- 🎢 Carousel efektleri için Owl Carousel eklentisi kullanılır.
+- 🛠️ Temel JavaScript işlemleri için `jquery.min.js` kullanılır.
 
-📍 E-posta, telefon ve adres bilgileri ikonlarla birlikte şık bir şekilde sunulur.
+### **Görseller**
+- 📂 Tüm görseller `img/` klasöründe saklanır.
 
-4️⃣ Projeler ve Referanslar
-📝 Geçmişte yapılan işler ve müşteri yorumları sergilenir.
+---
 
-🖼️ Owl Carousel ile etkileşimli bir proje gösterimi sağlanır.
+## 🎯 Proje Amaçları
 
-🛠️ Teknik Detaylar
-CSS Dosyaları
-🎨 main.css: Tüm temel stil ayarlarını içerir.
+- **💼 Kişisel Portföy Sunumu:** Freelance hizmetlerinizi profesyonelce sergilemeyi hedefler.
+- **✨ Modern Web Tasarımı:** Kullanıcı dostu ve estetik bir arayüz sunar.
+- **📈 SCSS Kullanımı:** Daha modüler ve sürdürülebilir stil yönetimi sağlar.
 
-🌟 lightbox.min.css ve owl.carousel.min.css: Harici kütüphanelere ait stiller.
+---
 
-JavaScript Kullanımı
-🎢 Owl Carousel eklentisi, slayt ve kaydırma efektleri için kullanılır.
+## 🎨 Projede SCSS’in Rolü
 
-🛠️ jquery.min.js: Temel JavaScript işlemlerinde destek sağlar.
+### 📦 **Modüler Yapı**
+- SCSS dosyaları bölümlere ayrılarak daha okunabilir ve düzenli hale getirilmiştir:
+  - `_variables.scss`
+  - `_mixins.scss`
+  - `_base.scss`
 
-Görseller
-📂 Tüm görseller img/ klasörü içinde saklanmaktadır.
+### 🎨 **Değişkenler**
+- Renk paletleri ve yazı tipleri gibi tasarım ögeleri değişkenlerle tanımlanır:
+  ```scss
+  $primary-color: #3498db;
+  $font-family: 'Roboto', sans-serif;
+  ```
 
-🎯 Projenin Amacı
-💼 Kişisel Portföy Sunumu: Hizmetlerinizi profesyonel bir arayüzle tanıtmayı hedefler.
+### 🪄 **Mixin ve Fonksiyonlar**
+- Tekrar eden stil kuralları mixin’lerle modülerleştirilir:
+  ```scss
+  @mixin flex-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  ```
 
-✨ Modern Web Tasarımı: Estetik ve kullanıcı dostu bir görünüm sağlar.
+### 📂 **İç İçe Yapı**
+- SCSS’in iç içe yazım özelliği HTML ile uyumlu stil yazmayı kolaylaştırır:
+  ```scss
+  .navbar {
+    background-color: $primary-color;
 
-📈 SCSS Kullanımı: Daha modüler ve sürdürülebilir bir stil yönetimi sunar.
-
-🎨 Projede SCSS'in Rolü
-📦 Modüler Yapı
-SCSS dosyaları mantıklı bölümlere ayrılarak daha okunabilir ve düzenli hale getirilmiştir:
-
-_variables.scss
-
-_mixins.scss
-
-_base.scss
-
-🎨 Değişkenler (Variables)
-Renk paletleri ve yazı tipleri gibi tasarım ögeleri değişkenlerle tanımlanmıştır:
-
-scss
-Copy
-Edit
-$primary-color: #3498db;
-$font-family: 'Roboto', sans-serif;
-🪄 Mixin'ler ve Fonksiyonlar
-Tekrarlayan stil kurallarını yeniden kullanmak için mixin'ler oluşturulmuştur:
-
-scss
-Copy
-Edit
-@mixin flex-center {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-📂 İç İçe Yapı (Nesting)
-SCSS’in iç içe yazım özelliği sayesinde HTML yapısı ile uyumlu stil tanımlamaları yapılır:
-
-scss
-Copy
-Edit
-.navbar {
-  background-color: $primary-color;
-
-  .nav-item {
-    color: white;
-
-    &:hover {
-      color: darken($primary-color, 10%);
+    .nav-item {
+      color: white;
+      &:hover {
+        color: darken($primary-color, 10%);
+      }
     }
   }
-}
-🌟 SCSS Kullanımının Avantajları
-📋 Kolay Yönetim: Dosyalar bölümlere ayrıldığı için büyüyen projelerde yönetim kolaylaşır.
+  ```
 
-🔄 Daha Az Tekrar: Değişken ve mixin kullanımı ile stil tekrarları azaltılır.
+---
 
-⚡ Hızlı Değişim: Renk veya yazı tipi gibi öğelerde değişiklikler tek yerden yapılabilir.
+## 🌟 SCSS Kullanımının Avantajları
 
-🎨 Profesyonel Görünüm: Düzenli yapı sayesinde daha kaliteli sonuçlar elde edilir.
+- **📋 Kolay Yönetim:** Modüler yapı sayesinde büyük projeler kolayca yönetilir.
+- **🔄 Daha Az Tekrar:** Mixin ve değişkenler kod tekrarını azaltır, daha temiz CSS sunar.
+- **⚡ Hızlı Değişim:** Tasarım güncellemeleri değişkenler ile hızlıca yapılabilir.
+- **🎨 Profesyonel Görünüm:** Düzenli yapı sayesinde profesyonel sonuç elde edilir.
 
-📌 Ek Geliştirme Önerileri
-🎨 İleri Düzey Mixin'ler: Farklı renk ve boyutlarda butonlar için mixin yapısı geliştirin.
+---
 
-🏗️ BEM Yaklaşımı: SCSS sınıflarını BEM (Block Element Modifier) metodolojisi ile organize edin.
+## 📌 Ek Geliştirme Önerileri
 
-🗺️ SCSS Map Kullanımı: Renk paletleri gibi değerleri SCSS map ile tanımlayın:
+- **🎨 Gelişmiş Mixin’ler:** Farklı renk ve boyutlar için dinamik buton mixin’leri oluşturun.
+- **🏗️ BEM Metodolojisi:** SCSS sınıflarını Block-Element-Modifier yaklaşımıyla düzenleyin.
+- **🗺️ SCSS Map Kullanımı:** Renk paletleri ve tekrar eden değerler için SCSS map kullanın.
+  ```scss
+  $colors: (
+    primary: #3498db,
+    secondary: #2ecc71,
+    danger: #e74c3c
+  );
 
-scss
-Copy
-Edit
-$colors: (
-  primary: #3498db,
-  secondary: #2ecc71,
-  danger: #e74c3c
-);
+  .btn {
+    background-color: map-get($colors, primary);
+  }
+  ```
 
-.btn {
-  background-color: map-get($colors, primary);
-}
-🛠️ Önerilen SCSS Dosya Yapısı
-Copy
-Edit
+---
+
+### 🛠️ Önerilen SCSS Dosya Yapısı
+```
 scss/
 ├── _variables.scss
 ├── _mixins.scss
@@ -290,3 +293,8 @@ scss/
 ├── _layout.scss
 ├── _components.scss
 ├── _utilities.scss
+```
+
+---
+
+Dilersen bu kısmı README dosyana ekleyebilirsin. Eğer istersen Markdown dosyasına eklenmiş halini de gönderebilirim!
