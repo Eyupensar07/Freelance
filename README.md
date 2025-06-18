@@ -143,86 +143,134 @@ scss/
 ├── _utilities.scss
 ```
 
-Aşağıda, istediğiniz bilgileri daha düzenli, okunabilir ve görsel olarak çekici bir hale getirilmiş şekilde sunuyorum. Bu düzenlemeyi README dosyanızda kullanabilirsiniz:
-
 🌟 Kişisel Portföy ve Freelance Hizmet Web Sitesi
-Bu proje, kişisel portföyünüzü veya freelance hizmetlerinizi tanıtmak için tasarlanmış, modern bir tasarım anlayışı sergileyen bir web sitesi projesidir. HTML, CSS ve JavaScript kullanılarak oluşturulmuştur.
+Bu proje, kişisel portföyünüzü veya freelance hizmetlerinizi modern bir tasarımla sergilemenizi amaçlayan bir web sitesidir. HTML, CSS ve JavaScript kullanılarak geliştirilmiştir.
 
 🚀 Genel Yapı ve Özellikler
-💻 HTML ve CSS Kullanımı: Sayfalar, HTML ile yapılandırılmış ve CSS ile şık bir tasarım uygulanmıştır. Ana stil dosyası: main.css.
-📱 Responsive Tasarım: Mobil cihazlardan masaüstü bilgisayarlara kadar her boyutta kusursuz bir görünüm sunar.
-📦 Modern Kütüphaneler:
+💻 HTML ve CSS Kullanımı: Sayfalar HTML ile yapılandırılmış, main.css dosyası ile şık bir görünüm kazandırılmıştır.
+
+📱 Responsive Tasarım: Mobil, tablet ve masaüstü cihazlarda kusursuz bir kullanıcı deneyimi sunar.
+
+📦 Kullanılan Modern Kütüphaneler:
+
 Google Fonts
+
 Font Awesome
+
 Animate.css
+
 Owl Carousel
-Bu kütüphaneler, gelişmiş tipografi, ikonlar ve animasyonlar sağlar.
+Bu kütüphaneler sayesinde daha estetik yazı tipleri, ikonlar, animasyonlar ve kaydırıcı efektleri elde edilmiştir.
+
 🌐 Sayfa İncelemesi
-1️⃣ Ana Sayfa (Home)
-👋 Kullanıcıyı karşılayan başlık ve kısa açıklamalar.
-🌐 Hızlı erişim sağlayan navigasyon menüsü.
-2️⃣ Hakkımda Sayfası (About)
-🧑‍💻 Kendi bilgileriniz ve yeteneklerinizin tanıtımı.
-🛠️ İlerleme çubukları ile görselleştirilmiş uzmanlık seviyeleri.
-✍️ Kısa biyografi ve profesyonel referanslar.
-3️⃣ İletişim Sayfası (Contact)
-📬 İsim, e-posta, telefon ve mesaj alanları içeren iletişim formu.
-📍 Şık ikonlarla desteklenmiş iletişim bilgileri.
-4️⃣ Projeler ve Referanslar (References)
-📝 Geçmiş projeler ve müşteri yorumları.
-🖼️ Owl Carousel ile dinamik kaydırma efekti.
+1️⃣ Ana Sayfa
+👋 Karşılama başlığı ve kısa açıklamalarla ziyaretçilere hoş geldiniz mesajı sunulur.
+
+🌐 Navigasyon menüsü sayesinde diğer sayfalara hızlı geçiş sağlanır.
+
+2️⃣ Hakkımda Sayfası
+🧑‍💻 Kişisel bilgileriniz ve yetenekleriniz tanıtılır.
+
+🛠️ "Web Development", "Mobil Uygulama Geliştirme", "Veri Bilimi", "Makine Öğrenmesi" gibi alanlarda ilerleme çubukları ile uzmanlık seviyeleri gösterilir.
+
+✍️ Kısa bir biyografi ve profesyonel referanslara yer verilir.
+
+3️⃣ İletişim Sayfası
+📬 Ad, e-posta, telefon ve mesaj alanlarını içeren bir iletişim formu yer alır.
+
+📍 E-posta, telefon ve adres bilgileri ikonlarla birlikte şık bir şekilde sunulur.
+
+4️⃣ Projeler ve Referanslar
+📝 Geçmişte yapılan işler ve müşteri yorumları sergilenir.
+
+🖼️ Owl Carousel ile etkileşimli bir proje gösterimi sağlanır.
+
 🛠️ Teknik Detaylar
 CSS Dosyaları
-🎨 main.css: Temel stil düzenlemeleri.
-🌟 lightbox.min.css ve owl.carousel.min.css: Ek kütüphane stilleri.
+🎨 main.css: Tüm temel stil ayarlarını içerir.
+
+🌟 lightbox.min.css ve owl.carousel.min.css: Harici kütüphanelere ait stiller.
+
 JavaScript Kullanımı
-🎢 Owl Carousel eklentisi ile kaydırma efektleri.
-🛠️ jquery.min.js dosyası ile temel işlemler.
+🎢 Owl Carousel eklentisi, slayt ve kaydırma efektleri için kullanılır.
+
+🛠️ jquery.min.js: Temel JavaScript işlemlerinde destek sağlar.
+
 Görseller
-📂 Görseller, img/ klasöründe saklanmıştır.
+📂 Tüm görseller img/ klasörü içinde saklanmaktadır.
+
 🎯 Projenin Amacı
-💼 Kişisel Portföy Tanıtımı: Freelance hizmetlerinizi profesyonel bir şekilde sergiler.
-✨ Modern Web Tasarımı: Kullanıcı dostu ve estetik bir arayüz sunar.
-📈 SCSS Kullanımı: Daha modüler ve sürdürülebilir bir stil yapısı sağlar.
-🎨 SCSS'in Projedeki Rolü
+💼 Kişisel Portföy Sunumu: Hizmetlerinizi profesyonel bir arayüzle tanıtmayı hedefler.
+
+✨ Modern Web Tasarımı: Estetik ve kullanıcı dostu bir görünüm sağlar.
+
+📈 SCSS Kullanımı: Daha modüler ve sürdürülebilir bir stil yönetimi sunar.
+
+🎨 Projede SCSS'in Rolü
 📦 Modüler Yapı
-SCSS dosyaları farklı bölümlere ayrılmıştır:
+SCSS dosyaları mantıklı bölümlere ayrılarak daha okunabilir ve düzenli hale getirilmiştir:
+
 _variables.scss
+
 _mixins.scss
+
 _base.scss
-Bu modüler yapı, kodun okunabilirliğini artırır.
+
 🎨 Değişkenler (Variables)
-Renk paleti, yazı tipleri vb. tasarım öğeleri değişkenlerle tanımlanmıştır. Örneğin:
+Renk paletleri ve yazı tipleri gibi tasarım ögeleri değişkenlerle tanımlanmıştır:
+
+scss
+Copy
+Edit
 $primary-color: #3498db;
 $font-family: 'Roboto', sans-serif;
 🪄 Mixin'ler ve Fonksiyonlar
-Tekrarlayan stil kuralları için mixin'ler oluşturulmuştur:
+Tekrarlayan stil kurallarını yeniden kullanmak için mixin'ler oluşturulmuştur:
+
+scss
+Copy
+Edit
 @mixin flex-center {
   display: flex;
   justify-content: center;
   align-items: center;
 }
-📂 Nested Yapı
-SCSS'in iç içe yazım özelliği ile düzenli bir yapı sağlanmıştır:
+📂 İç İçe Yapı (Nesting)
+SCSS’in iç içe yazım özelliği sayesinde HTML yapısı ile uyumlu stil tanımlamaları yapılır:
+
+scss
+Copy
+Edit
 .navbar {
   background-color: $primary-color;
 
   .nav-item {
     color: white;
+
     &:hover {
       color: darken($primary-color, 10%);
     }
   }
 }
 🌟 SCSS Kullanımının Avantajları
-📋 Kolay Yönetim: Modüler yapı sayesinde stil dosyalarının yönetimi kolaydır.
-🔄 Daha Az Tekrar: Mixin'ler ve değişkenler ile tekrarlar azaltılır.
-⚡ Hızlı Değişim: Tasarım değişiklikleri, değişkenler üzerinden hızla uygulanır.
-🎨 Profesyonel Görünüm: Daha düzenli bir yapı sağlanır.
+📋 Kolay Yönetim: Dosyalar bölümlere ayrıldığı için büyüyen projelerde yönetim kolaylaşır.
+
+🔄 Daha Az Tekrar: Değişken ve mixin kullanımı ile stil tekrarları azaltılır.
+
+⚡ Hızlı Değişim: Renk veya yazı tipi gibi öğelerde değişiklikler tek yerden yapılabilir.
+
+🎨 Profesyonel Görünüm: Düzenli yapı sayesinde daha kaliteli sonuçlar elde edilir.
+
 📌 Ek Geliştirme Önerileri
-🎨 İleri Düzey Mixin'ler: Farklı renk ve boyutlar için dinamik buton mixin'leri.
-🏗️ BEM Yaklaşımı: SCSS sınıflarını BEM metodolojisi ile organize edin.
-🗺️ SCSS Map Kullanımı: Renk paletleri ve diğer değerler için SCSS map yapısı.
+🎨 İleri Düzey Mixin'ler: Farklı renk ve boyutlarda butonlar için mixin yapısı geliştirin.
+
+🏗️ BEM Yaklaşımı: SCSS sınıflarını BEM (Block Element Modifier) metodolojisi ile organize edin.
+
+🗺️ SCSS Map Kullanımı: Renk paletleri gibi değerleri SCSS map ile tanımlayın:
+
+scss
+Copy
+Edit
 $colors: (
   primary: #3498db,
   secondary: #2ecc71,
@@ -233,6 +281,8 @@ $colors: (
   background-color: map-get($colors, primary);
 }
 🛠️ Önerilen SCSS Dosya Yapısı
+Copy
+Edit
 scss/
 ├── _variables.scss
 ├── _mixins.scss
